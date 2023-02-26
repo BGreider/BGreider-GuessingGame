@@ -8,8 +8,9 @@
  */
 public class GameService {
     /**
-     * This variable represents a secret number. This variable can be referenced anywhere within this GameService class.
-     */
+     * This variable represents a sec
+     * 
+    */
     public double secretNumber;
 
     /**
